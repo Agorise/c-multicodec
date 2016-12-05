@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!Makefile
+!**/
+
+*.o
+.settings/language.settings.xml
+test/test_multicodec
